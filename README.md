@@ -11,7 +11,7 @@ In this Notebook, i have used TensorFLow/Keras, PyTorch, Scikit-Learn, matplotli
 The data can be found in the dataset folder, which consists the training and the test set. Both files are a .csv files.
 
 ## The Task
-The task was to predict a house's price based on many housing features. A total of 81 features were present in the data. Howewer, this is a simple linear regression task, so i tried to focus more on the data engineering part of the problem, trying out various data preprocessing technics.
+The task was to predict a house's price based on many housing features. A total of 81 features were present in the data. Howewer, this is a simple linear regression task, so i tried to focus more on the data engineering part of the problem, rather then the model building.
 
 ### The architecture of the notebook
 The very top section contains the imports and the data loading parts. The mid section has all the preprocessing methods like:
