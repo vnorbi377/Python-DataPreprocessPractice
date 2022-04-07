@@ -22,6 +22,7 @@ The very top section contains the imports and the data loading parts. The mid se
 - Searching for relationship betwen features based on the corr. matrix and subplots
 - Data encoding
 - Predicting missing values with normal equation and a simple linear model
+- Outlier detection
 - etc.
 
 ### Models
